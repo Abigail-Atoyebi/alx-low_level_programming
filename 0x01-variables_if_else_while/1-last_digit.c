@@ -4,7 +4,7 @@
 /**
  *main - A program
  *Descrition: 'last digit'
- *Return; always 0
+ *Return: always 0
  */
 int main(void)
 {
