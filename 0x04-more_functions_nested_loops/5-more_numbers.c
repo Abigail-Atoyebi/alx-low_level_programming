@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *morenumbers - more
+ *more_numbers - more
  *Return:void
  */
 void more_numbers(void)
