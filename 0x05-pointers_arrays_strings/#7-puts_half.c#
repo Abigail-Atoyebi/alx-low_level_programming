@@ -1,0 +1,7 @@
+#include "main.h"
+/**
+ *puts_half - put
+ *@str: string
+ *Return:
+ */
+void puts_half(char *str)
