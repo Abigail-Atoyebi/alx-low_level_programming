@@ -2,7 +2,7 @@
 /**
  *_strlen - tag
  *@s: str
- *Return:
+ *Return:length
  */
 int _strlen(char *s)
 {
