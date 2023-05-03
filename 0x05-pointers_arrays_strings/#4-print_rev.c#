@@ -1,6 +1,0 @@
-#include "main.h"
-/**
- *print_rev - print
- *@s: what
- */
-void print_rev(char *s);
