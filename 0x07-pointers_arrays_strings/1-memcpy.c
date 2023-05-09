@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  *_memcpy - mem
- *@dest: start 
- *@src: stop
- *@n: integer 
- *Return: value
+ *@dest: start
+*@src: stop
+ *@n: integer
+*Return: value
  */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
