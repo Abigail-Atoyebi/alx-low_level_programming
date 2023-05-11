@@ -1,8 +1,11 @@
 #include "main.h"
+#include <stdio.h>
 /**
  *_strstr - str
  *@haystack: hay
  *@needle: hays
- *Return:
+ *Return: begimmimg 
 */
 char *_strstr(char *haystack, char *needle)
+{
+  
