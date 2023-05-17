@@ -1,4 +1,5 @@
-#include "main.h"
+#include "main.h
+#include <stdio.h>
 /**
  * main - print
  *@argc: d
@@ -30,5 +31,5 @@ num -= coins[j];
 }
 }
 printf("%d\n", result);
-result (0);
+return (0);
 }
