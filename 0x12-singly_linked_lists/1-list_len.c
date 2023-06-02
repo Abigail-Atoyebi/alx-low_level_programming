@@ -2,14 +2,14 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- *list_len - show 
- * @h: a linked list
+ *list_len - show
+* @h: a linked list
  *Return: the number
  */
 size_t list_len(const list_t *h)
 {
 size_t count = 0;
-while(h)
+while (h)
 {
 h = h->next;
 count++;
